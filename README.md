@@ -6,7 +6,7 @@ OpenWrt LuCI Material 主题，提供三种配色方案：atmaterial、atmateria
 
 - **Material Design 风格**: 现代简洁的界面设计
 - **三种配色方案**: 
-  - atmaterial (默认绿色系)
+  - atmaterial (默认抹茶绿)
   - atmaterial_Brown (棕色系)
   - atmaterial_red (红色系)
 - **响应式设计**: 支持移动端和平板设备
