@@ -524,6 +524,9 @@ color: #8965e0!important;
     content: "\e00f";
 color: #2dce89!important;
 }
+.main > .main-left > .nav > .slide > a[data-title="Statistics"]:before {
+    content: "\e00f";
+}
 
 .main > .main-left > .nav > li > a[data-title="Logout"] {
     padding-left:36px;
